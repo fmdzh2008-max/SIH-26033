@@ -38,25 +38,8 @@ Features a dynamic route optimization engine that consolidates loads from multip
 
 Blockchain-backed traceability for transparency in quality assurance and fair pricing.
 ## Technical Approach
-Frontend: React.js (Web), Flutter (Cross-platform Mobile App for farmers and drivers).
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/3cd2fa20-2691-4e5f-945c-20f07dbbfd71" />
 
-Backend: Node.js with Express / Python (FastAPI for AI model serving).
-
-Database: PostgreSQL (Relational data for users/transactions) + MongoDB (Unstructured catalog/logistics logs).
-
-AI/ML & Logistics: Python (Scikit-learn, TensorFlow for demand forecasting; Google OR-Tools or custom Graphhopper algorithms for route optimization).
-
-Cloud & Hosting: AWS / GCP with containerization via Docker and Kubernetes.
-
-Methodology & Process for Implementation:
-
-Phase 1 (Data & Requirement Analysis): Map FPO locations, typical crop yields, and seasonal demand metrics.
-
-Phase 2 (MVP Development): Build core marketplace modules (user onboarding, listing, secure checkout) and basic AI demand templates.
-
-Phase 3 (Logistics Integration): Incorporate mapping APIs and dynamic route calculation for fleet management.
-
-Phase 4 (Pilot Testing): Test deployment with a select cluster of FPOs and bulk buyers in a pilot district.
 ## Feasibility and Viability
 Feasibility Analysis: Highly viable due to widespread smartphone and internet penetration in rural areas, rising digital literacy among FPOs, and active government pushes toward digital agriculture initiatives (like AgriStack and e-NAM).
 
